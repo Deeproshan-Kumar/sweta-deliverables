@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Raleway", sans-serif;
+}
+
+body {
+  font-weight: 500;
+}
+
+.react-datepicker-wrapper {
+  @apply w-full;
+}
